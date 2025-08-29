@@ -15,7 +15,7 @@ preferred-citation:
   - family-names: "Bongard"
     given-names: "Josh"
   doi: "10.1088/2632-2153/adf9bd"
-  journal = "Machine Learning: Science and Technology"
+  journal: "Machine Learning: Science and Technology"
   month: 9
   start: 035037
   title: "Multi-exit Kolmogorov–Arnold networks: enhancing accuracy and parsimony"
