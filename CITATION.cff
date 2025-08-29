@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bagrow"
+  given-names: "James"
+  orcid: "https://orcid.org/0000-0002-4614-0792"
+title: "Multi-Exit Kolmogorov Arnold Networks"
+url: "https://github.com/bagrow/multi-exit-KAN"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Bagrow"
+    given-names: "James"
+    orcid: "https://orcid.org/0000-0002-4614-0792"
+  - family-names: "Bongard"
+    given-names: "Josh"
+  doi: "10.1088/2632-2153/adf9bd"
+  journal = "Machine Learning: Science and Technology",
+  month: 9
+  start: 035037
+  title: "Multi-exit Kolmogorov–Arnold networks: enhancing accuracy and parsimony"
+  volume: 6
+  number: 3
+  year: 2025
+  
