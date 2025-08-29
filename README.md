@@ -2,7 +2,7 @@
 
 James Bagrow and Josh Bongard
 
-<img src="figure.png" alt="Overview figure" width="75%">
+<img src="figure.png" alt="Overview figure">
 
 
 ## Requirements
